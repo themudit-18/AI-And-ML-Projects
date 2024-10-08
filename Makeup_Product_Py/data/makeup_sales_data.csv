@@ -1,0 +1,6 @@
+date,product_name,price,promotion,season,units_sold
+2023-01-01,Lipstick,20,No,Winter,100
+2023-01-02,Foundation,30,Yes,Winter,150
+2023-02-15,Lipstick,20,Yes,Winter,200
+2023-03-01,Eyeshadow,25,No,Spring,80
+...
